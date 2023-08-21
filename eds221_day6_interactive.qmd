@@ -1,0 +1,11 @@
+---
+title: "EDS221 Day 6 Interactive"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(here)
+library(janitor)
+```
